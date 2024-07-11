@@ -1,6 +1,6 @@
 # About-Me
 - <b>Hi, I am Nawin Raj Kumar.</b> :raising_hand_man:
-- I am an Edge AI Developer :sunglasses:
+- I am a Machine Learning Engineer :sunglasses:
 - I work at [Nunnari Labs](https://nunnarilabs.com/)
 - You can talk to me about Programming, AI , IOT and Mathematics. 
 - Also I am a blogger, Here's the link to my [blogs](https://medium.com/@nrknawinrajkumar888) :scroll:.
